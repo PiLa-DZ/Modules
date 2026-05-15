@@ -5,7 +5,8 @@ null inputs, and edge cases! 🛠️
 
 > [!NOTE]
 > This is `zod version 3.25.76`
-> Install `uuid` module if you need
+> Install `uuid` module
+> Install `@types/uuid` module
 
 ```ts
 import z from "zod";

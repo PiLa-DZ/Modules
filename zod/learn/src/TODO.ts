@@ -1,7 +1,7 @@
 /*
  * [x] password
  * [x] email
- * [ ] uuid
+ * [x] uuid
  * [ ] jwt
  * [ ] url
  *
