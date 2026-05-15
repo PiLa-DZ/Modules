@@ -5,6 +5,7 @@
  * [x] jwt
  * [x] url
  * [x] NODE_ENV
+ * [x] PORT
  *
  * hash("sha256")
  * iso.datetime()
