@@ -7,6 +7,7 @@
  * [x] NODE_ENV
  * [x] PORT
  * [x] JWT_SECRET
+ * [x] Bcrypt-Hathed-Password
  *
  * hash("sha256")
  * iso.datetime()
