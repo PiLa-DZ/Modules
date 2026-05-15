@@ -1,7 +1,7 @@
 ### Strict UUID Validation & Sanitization Schema with Zod
 
 Check out the snippet below to see how cleanly it handles bad formats,
-null inputs, and edge cases! 🛠️
+null inputs, and edge cases!
 
 > [!NOTE]
 > This is `zod version 3.25.76`

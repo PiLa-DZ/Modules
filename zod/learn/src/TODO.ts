@@ -4,6 +4,7 @@
  * [x] uuid
  * [x] jwt
  * [x] url
+ * [x] NODE_ENV
  *
  * hash("sha256")
  * iso.datetime()
