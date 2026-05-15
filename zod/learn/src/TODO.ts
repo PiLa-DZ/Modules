@@ -2,16 +2,13 @@
  * [x] password
  * [x] email
  * [x] uuid
- * [x] jwt
+ * [x] JWT-Token
  * [x] url
  * [x] NODE_ENV
  * [x] PORT
+ * [x] JWT_SECRET
  *
  * hash("sha256")
  * iso.datetime()
  * coerce.number()
  */
-
-// const emailSchema = z.string().trim().toLowerCase().email();
-// const email = emailSchema.parse("user@gmail.com");
-// console.log(email);
