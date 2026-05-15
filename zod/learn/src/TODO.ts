@@ -2,7 +2,7 @@
  * [x] password
  * [x] email
  * [x] uuid
- * [ ] jwt
+ * [x] jwt
  * [ ] url
  *
  * hash("sha256")

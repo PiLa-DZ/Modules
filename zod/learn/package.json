@@ -15,7 +15,10 @@
     "zod": "^3.25.76"
   },
   "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.10",
     "@types/node": "^25.8.0",
+    "@types/uuid": "^10.0.0",
+    "jsonwebtoken": "^9.0.3",
     "tsx": "^4.22.0",
     "typescript": "^6.0.3",
     "uuid": "^14.0.0"
