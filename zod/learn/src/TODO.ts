@@ -3,7 +3,7 @@
  * [x] email
  * [x] uuid
  * [x] jwt
- * [ ] url
+ * [x] url
  *
  * hash("sha256")
  * iso.datetime()
